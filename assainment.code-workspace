@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Flower Asset"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assainment"
+	}
+}
